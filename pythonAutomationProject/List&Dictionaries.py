@@ -60,8 +60,35 @@
 #===========================================================================================================================================================
 #this is an example of a mutable list causing problems
 
-def eggs(someParameter):
-    someParameter.append("Hello")
-spam = [1,2,3]
-eggs(spam)
-print(spam)
+#def eggs(someParameter):
+ #   someParameter.append("Hello")
+#spam = [1,2,3]
+#eggs(spam)
+#print(spam)
+#===========================================================================================================================================================
+#dictionaries
+
+#myCat = {'size':'fat', 'color' : 'grey', 'noise': 'loud'}
+#myCat['size'] --> will return 'fat'
+#functions: list(mycat.keys()), list(mycat.values()), list(mycat.items())
+
+#get() method is as follows:
+#myCat.get('age', 0) --> will return the age if not, then 0
+#myCat.get('color', '') --> since color does not exist, then a blank will be returned
+
+#setdefault() is as follows:
+#myCat.setdefault('spots', 'black')
+
+# import pprint
+# message = "It was a bright cold in april, and the clocks were striking thirteen."
+# count = {}
+#
+# for character in message.upper():
+#     count.setdefault(character, 0)
+#     count[character] = count[character] + 1
+# text = pprint.pformat(count)
+# print(text)
+
+#===========================================================================================================================================================
+#data Structures
+
