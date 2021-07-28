@@ -90,5 +90,19 @@
 # print(text)
 
 #===========================================================================================================================================================
-#data Structures
+#strings and string methods
+#can use ' or "
 
+#upper() and lower() will return an upper or lower version of the string used
+#isupper() and islower() is a bool to check the upper or lower case
+
+#others include: isalpha(), isalnum(), isdecimal(), issapce(), istitle()
+
+# string formatting --> %s in strings to automatically insert variables when needed
+
+#===========================================================================================================================================================
+#running programs from not pycharm
+
+#all programs shpuld start with: #! python3
+
+#in cmd prompt, enter py and then the entire path to your file that you want to run
