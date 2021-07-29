@@ -34,10 +34,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pythonAutomationProject/List&amp;Dictionaries.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pythonAutomationProject/RegularExpressions.py" />
   </component>
   <component name="RunManager">
-    <configuration name="List&amp;Dictionaries" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="RegularExpressions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonAutomationCourseProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonAutomationProject/List&amp;Dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonAutomationProject/RegularExpressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
